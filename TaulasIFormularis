@@ -55,18 +55,18 @@ table,th, td {
         <th>Divendres</th>
     </tr>
     <tr>
-        <td>15:00H-16:00H</td>
-        <td>Tutoria</td>
-        <td style="height:200px">MP08</td>
+        <td>15:00-16:00</td>
+        <td>T</td>
+        <td rowspan="2">MP08</td>
         <td>    </td>
         <td>MP10</td>
         <td>    </td>
     </tr>
     <tr>
-        <td>16:00H-17:00H</td>
-        <td style="height:200px">MP06</td>
-        <td style="height:200px">MP04</td>
-        <td style="height:200px">MP04</td>
-        <td style="height:200px">MP07</td>
+        <td>16:00-17:00</td>
+        <td rowspan="2">MP06</td>
+        <td rowspan="2">MP04</td>
+        <td rowspan="2">MP04</td>
+        <td rowspan="2">MP07</td>
     </tr>
 </table>
