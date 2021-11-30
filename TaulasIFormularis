@@ -38,6 +38,11 @@ table,th, td {
         <td>Zona Safari</td>
     </tr>
 </table>
+
+
+
+
+
 <style>
     table, th, td {
         border: 1px solid black;
@@ -68,5 +73,30 @@ table,th, td {
         <td rowspan="2">MP04</td>
         <td rowspan="2">MP04</td>
         <td rowspan="2">MP07</td>
+    </tr>
+    <tr>
+        <td>17:00-17:55</td>
+        <td>MP10</td>
+    </tr>
+    <tr>
+        <td>17:55-18:15</td>
+        <td colspan="6">Pati</td>
+    </tr>
+    <tr>
+        <td>18:15-19:10</td>
+        <td rowspan="3">MP07</td>
+        <td rowspan="2">MP06</td>
+        <td rowspan="3">MP12</td>
+        <td rowspan="2">MP08</td>
+        <td rowspan="2">MP08</td>
+    </tr>
+    <tr>
+        <td>19:10-20:05</td>
+    </tr>
+    <tr>
+        <td>20:05-21:00</td>
+        <td>    </td>
+        <td>    </td>
+        <td>    </td>
     </tr>
 </table>
