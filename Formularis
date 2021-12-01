@@ -4,3 +4,4 @@
 
 <form>
     <label for="fname">Nom:</label> <input type="text" id="fname" name="fname"><br>
+    <label for="cogn">Cognom:</label> <input type="text" id="cogn" name="cogn"><br>
