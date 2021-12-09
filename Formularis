@@ -42,7 +42,7 @@
 
 <form>
     <label>La signatura que mes m'agrada es</label> 
-    <select id="m0" name="m0" size="3">
+    <select id="m0" name="m0">
         <option value="M07" selected>M07</option>
         <option value="M05" selected>M05</option>
         <option value="M08" selected>M08</option>
