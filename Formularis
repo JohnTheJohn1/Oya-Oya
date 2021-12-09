@@ -5,3 +5,46 @@
 <form>
     <label for="fname">Nom:</label> <input type="text" id="fname" name="fname"><br>
     <label for="cogn">Cognom:</label> <input type="text" id="cogn" name="cogn"><br>
+    <label for="edat">Edat:</label> <input type="text" id="edat" name="edat"><br>
+</form>
+
+<p>Cicle formatiu que es vol cursar l'any vinent</p>
+
+<form>
+    <input type="radio" id="DAM" name="DAM" value="DAM">
+    <label for="DAM">DAM</label><br>
+    <input type="radio" id="ASIX" name="ASIX" value="ASIX">
+    <label for="ASIX">ASIX</label><br>
+    <input type="radio" id="altre" name="altre" value="altre">
+    <label for="altre">Altre...</label><br>
+</form>
+
+<p>Marca les teves aficions</p>
+
+<form>
+    <input type="checkbox" id="es" name="es" value="es">
+    <label for="es">Estudiar</label><br>
+    <input type="checkbox" id="ver" name="ver" value="ver">
+    <label for="ver">Veure Boku no Pico</label><br>
+    <input type="checkbox" id="veru" name="veru" value="veru">
+    <label for="veru">Veure Twitch</label><br>
+    <input type="checkbox" id="ju" name="ju" value="ju">
+    <label for="ju">Jugar amb el Movil</label><br>
+    <input type="checkbox" id="men" name="men" value="men">
+    <label for="men">Menjar</label><br>
+</form>
+
+<form>
+    <label>Altres</label> <textarea name="message" rows="10" cols="30">
+        Especifica quines
+    </textarea>
+</form>
+
+<form>
+    <label>La signatura que mes m'agrada es</label> 
+    <select id="m0" name="m0" size="3">
+        <option value="M07" selected>M07</option>
+        <option value="M05" selected>M05</option>
+        <option value="M08" selected>M08</option>
+    </select>
+</form>
